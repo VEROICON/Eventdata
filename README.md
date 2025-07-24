@@ -13,9 +13,9 @@ Ein GUI-Tool für Windows und macOS, das CSV-Dateien mit Veranstaltungsdaten ins
 ## Option 1 ohne Installation
 
 - Trage Deine Eventdaten in die XLSX Vorlage ein (Verändere das Format nicht)
-- Exoportiere CSV (Codierung UTF8)
-- Starte Windows_CSV_EVENTS_to_JSON.exe oder MacOS_CSV_EVENTS_to_JSON 
-- 2 Anwednungsfenster öffnen sich innerhalb von 5 Minuten
+- Exportiere daraus eine CSV Datei (Codierung UTF8)
+- Starte Windows_CSV_EVENTS_to_JSON.exe oder MacOS_CSV_EVENTS_to_JSON (je nach Betriebsystem - Systeme ohne Desktopumgebung --> Option 2)
+- 2 Anwednungsfenster öffnen sich innerhalb von ca 5 Minuten
 - wähle die als CSV (Codierung UTF8) gespeicherte Datei
 - klicke konvertieren
 - Ausgabe im selben Ordner als JSON-LD
