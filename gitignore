@@ -1,1 +1,26 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Umgebungen
+.env
+.venv/
+venv/
+env/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs & Editor-Projekte
+.vscode/
+.idea/
+*.iml
+
+# Sonstiges
+*.converted.csv
+*JSON-LD.json
 
