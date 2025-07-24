@@ -55,4 +55,4 @@ MIT License – siehe [LICENSE](LICENSE)
 
 ## Autorin
 
-Veronika Kocher für [DIO – Data Intelligence Offensive](https://www.dataintelligenceoffensive.at)
+Veronika Kocher für [DIO – Data Intelligence Offensive](https://www.dataintelligence.at)
