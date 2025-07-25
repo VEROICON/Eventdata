@@ -1,0 +1,25 @@
+Datenschutzerklärung für „Event-Data“ (Konverter)
+Stand: 25. Juli 2025
+
+Die Anwendung Eventdata verarbeitet keine personenbezogenen Daten im Sinne der DSGVO.
+
+Was macht das Tool?
+Es konvertiert öffentlich verfügbare Veranstaltungsdaten aus Excel oder CSV-Dateien in ein maschinenlesbares Format (JSON-LD) nach dem Schema.org-Standard.
+
+Diese Daten enthalten z. B. Titel, Ort, Uhrzeit, Beschreibung – jedoch keine personenbezogenen Angaben.
+
+Keine Verarbeitung personenbezogener Daten
+Die Eingabedaten werden lokal verarbeitet, ohne Übertragung an Server oder Dritte.
+
+Es findet keine Nutzer-Tracking, Analyse oder Protokollierung statt.
+
+Es werden keine Namen, E-Mail-Adressen, IP-Adressen oder Geräteinformationen erfasst oder gespeichert.
+
+Veröffentlichung der Daten
+Die durch das Tool erzeugten JSON-LD-Dateien sind für die öffentliche Publikation im Web gedacht (z. B. in Kulturkalendern, CMS oder Suchmaschinen).
+
+Für die Inhalte der Eingabedateien ist ausschließlich der/die Nutzer:in verantwortlich.
+
+Kontakt
+Bei Fragen zur Anwendung:
+https://github.com/VEROICON/Eventdata
